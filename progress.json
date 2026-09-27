@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T07:44:07.244Z",
+  "generated_at": "2026-09-27T14:57:57.991Z",
   "items": {
     "math:104": {
       "kind": "math",
@@ -48,6 +48,17 @@
       "path": "math/0080-loocv-vs-k-fold-the-bias-variance-of-k",
       "first_solved_at": "2026-09-27T07:44:06.091Z",
       "last_pushed_at": "2026-09-27T07:44:06.091Z"
+    },
+    "math:31": {
+      "kind": "math",
+      "id": "31",
+      "title": "Regularization and Generalization",
+      "difficulty": "medium",
+      "category": "Bias-variance and L2 penalty",
+      "url": "https://www.deep-ml.com/math-problems/31",
+      "path": "math/0031-regularization-and-generalization",
+      "first_solved_at": "2026-09-27T14:57:56.488Z",
+      "last_pushed_at": "2026-09-27T14:57:56.488Z"
     }
   }
 }
